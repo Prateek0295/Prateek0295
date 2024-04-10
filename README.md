@@ -1,4 +1,4 @@
-[![MasterHead](https://https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)]
+[![MasterHead](https://https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://github.com/Prateek0295/Prateek0295/edit/main/README.md)
 
 <h1 align="center">Hi 👋, I'm Prateek Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
